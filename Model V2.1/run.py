@@ -19,7 +19,7 @@ print(" Setup complete")
 
 
 CSV_PATH = "../Data/var_pivot_clean.csv"
-TARGET_YEAR = 2023
+TARGET_YEAR = 2024
 
 df = pd.read_csv(CSV_PATH)
 
@@ -92,7 +92,7 @@ print(" Modules reloaded")
 
 results, summary = run_rao_pipeline(
     countries=countries_filtered,
-    target_year=2023,
+    target_year=TARGET_YEAR,
     config=COMMERCIAL_DEFAULT,
     csv_override_path="../Data/var_pivot_renamed.csv",
     fetch_live=False,

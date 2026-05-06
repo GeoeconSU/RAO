@@ -41,10 +41,10 @@ TRAJECTORY_VARS = {
 }
 
 IMF_INDICATORS = {
-    "gdp_growth":            "NGDP_RPCH",,
-    "cpi_inflation":         "PCPIPCH",,
-    "government_debt_pct_gdp": "GGXWDG_NGDP",,
-    "current_account_pct_gdp": "BCA_NGDPD",,
+    "gdp_growth":            "NGDP_RPCH",
+    "cpi_inflation":         "PCPIPCH",
+    "government_debt_pct_gdp": "GGXWDG_NGDP",
+    "current_account_pct_gdp": "BCA_NGDPD",
 }
 
 PARTIAL_COVERAGE_VARS = {

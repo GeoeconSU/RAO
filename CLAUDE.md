@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What This Is
 
-RAO v2.1 is a quantitative country-scoring model for emerging-market investment opportunity. It produces a 1–10 RAO (Resource Allocation Opportunity) score per country by running a 14-stage pipeline across World Bank, IMF, and CSV data sources. All model code lives in `Model V2.1/`. Scored output CSVs land in `Data/`.
+RAO v2.1 is a quantitative country-scoring model for emerging-market investment opportunity. It produces a 1–10 RAO (Risk Adjusted Opportunity) score per country by running a 14-stage pipeline across World Bank, IMF, and CSV data sources. All model code lives in `Model V2.1/`. Scored output CSVs land in `Data/`.
 
 ## Running the Pipeline
 

@@ -19,12 +19,12 @@ TRAJECTORY_DISCOUNTS = {
 }
 
 COMMODITY_CYCLE_COUNTRIES = {
-    "SAU", "OMN", "QAT", "BHR", "KWT", "ARE",,
-    "NGA", "AGO", "GAB", "COG", "GNQ",,
-    "AZE", "KAZ", "TKM",,
-    "VEN", "ECU", "BOL",,
-    "ZMB", "DRC", "COD",,
-    "MNG",,
+    "SAU", "OMN", "QAT", "BHR", "KWT", "ARE",
+    "NGA", "AGO", "GAB", "COG", "GNQ",
+    "AZE", "KAZ", "TKM",
+    "VEN", "ECU", "BOL",
+    "ZMB", "DRC", "COD",
+    "MNG",
 }
 
 TOURISM_CYCLE_COUNTRIES = {
@@ -39,45 +39,45 @@ CONFLICT_STATES = {
 }
 
 ECONOMIC_COLLAPSE_STATES = {
-    "VEN",,
-    "ZWE",,
-    "SDN",,
-    "LBN",,
-    "SSD",,
-    "ERI",,
+    "VEN",
+    "ZWE",
+    "SDN",
+    "LBN",
+    "SSD",
+    "ERI",
 }
 
 AUTHORITARIAN_CLOSED_STATES = {
-    "TKM",,
-    "PRK",,
-    "CUB",,
+    "TKM",
+    "PRK",
+    "CUB",
 }
 
 SANCTIONS_WATCH_LIST = {
-    "RUS",,
-    "IRN",,
-    "BLR",,
-    "MMR",,
+    "RUS",
+    "IRN",
+    "BLR",
+    "MMR",
 }
 
 NEAR_ZERO_CAPACITY_STATES = {
-    "TLS",,
-    "LBY",,
-    "COG",,
-    "SSD",,
-    "COD",,
-    "IRQ",,
-    "GAB",,
+    "TLS",
+    "LBY",
+    "COG",
+    "SSD",
+    "COD",
+    "IRQ",
+    "GAB",
 }
 
 SMALL_MARKET_DEPTH_WATCH = {
-    "CRI",,
-    "PAN",,
-    "JAM",,
-    "MNE",,
-    "BTN",,
-    "GMB",,
-    "MDA",,
+    "CRI",
+    "PAN",
+    "JAM",
+    "MNE",
+    "BTN",
+    "GMB",
+    "MDA",
 }
 
 PILLAR_C_TOS_FLOOR = 0.10
